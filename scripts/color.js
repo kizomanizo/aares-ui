@@ -3,25 +3,17 @@ const body = document.body;
 
 // Rceive theme details and change on click
 function loadTheme(theme) {
-    const reversedTheme = theme.split("").reverse().join("");
     const chosenTheme = (theme+'-theme')
     body.className = "";
     body.classList.add(chosenTheme);
-    storeTheme(reversedTheme);
-    document.cookie = "maintheme=delftblue; expires=Sun, 03 Apr 2023 23:59:59 GMT+3; SameSite=Lax;";
-    // return setCookie('maintheme', theme, 12);
-}
-
-function storeTheme(name) {
-    // localStorage.setItem('maintheme', name);
-    // return setCookie('maintheme', name, 12);
+    return setCookie('maintheme', theme, 12);
 }
 
 function setCookie(cname, cvalue, exdays) {
-    const d = new Date();
-    d.setTime(d.getTime() + (exdays*24*60*60*1000));
-    let expires = "expires="+ d.toUTCString();
-    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+    const date = new Date();
+    date.setTime(date.getTime() + (exdays*24*60*60*1000));
+    let expires = "expires="+ date.toUTCString();
+    return document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
 }
 
 function getCookie(cname) {
@@ -43,7 +35,7 @@ function getCookie(cname) {
 function checkCookie() {
     let cookieTheme = getCookie("maintheme");
     if (cookieTheme != "") {
-        const maintheme = cookieTheme.split("").reverse().join("");
+        const maintheme = cookieTheme;
         return loadTheme(maintheme);
     } else {
         return loadTheme('delftblue');
