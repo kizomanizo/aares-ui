@@ -1,0 +1,23 @@
+body.dodgerblue-theme {
+    /* DOdger Blue Color Theme */
+    --theme-95: #00111A;
+    --theme-90: #002031;
+    --theme-85: #002F47;
+    --theme-80: #003D5E;
+    --theme-75: #004B75;
+    --theme-70: #00598C;
+    --theme-65: #0066A3;
+    --theme-60: #0073BA;
+    --theme-55: #0080D1;
+    --theme-50: #058CE8;
+    --theme-45: #1098F7;
+    --theme-40: #1EA4FF;
+    --theme-35: #33B0FF;
+    --theme-30: #4DBBFF;
+    --theme-25: #66C6FF;
+    --theme-20: #80D1FF;
+    --theme-15: #99DBFF;
+    --theme-10: #B3E4FF;
+    --theme-05: #CCEEFF;
+    --theme-00: #E6F7FF;
+}

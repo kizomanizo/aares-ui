@@ -1,0 +1,23 @@
+body.delftblue-theme {
+    /* Delft Blue Theme Color */
+    --theme-95: #02040A;
+    --theme-90: #040713;
+    --theme-85: #070B1C;
+    --theme-80: #090F24;
+    --theme-75: #0D132C;
+    --theme-70: #101733;
+    --theme-65: #141C3A;
+    --theme-60: #182141;
+    --theme-55: #1D2547;
+    --theme-50: #222B4D;
+    --theme-45: #273053;
+    --theme-40: #3B4466;
+    --theme-35: #4F5779;
+    --theme-30: #636B8B;
+    --theme-25: #78809D;
+    --theme-20: #8E94AF;
+    --theme-15: #A3A9C0;
+    --theme-10: #BABED0;
+    --theme-05: #D0D4E0;
+    --theme-00: #E7E9F0;
+}

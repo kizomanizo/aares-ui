@@ -1,0 +1,23 @@
+body.mossgreen-theme {
+    /* Moss Green Color Theme */
+    --theme-95: #060B01;
+    --theme-90: #0C1403;
+    --theme-85: #121D04;
+    --theme-80: #172607;
+    --theme-75: #1D2E09;
+    --theme-70: #23360C;
+    --theme-65: #283D10;
+    --theme-60: #2E4414;
+    --theme-55: #334A18;
+    --theme-50: #39501D;
+    --theme-45: #3E5622;
+    --theme-40: #526936;
+    --theme-35: #657C4A;
+    --theme-30: #788E5F;
+    --theme-25: #8CA074;
+    --theme-20: #9FB18A;
+    --theme-15: #B2C2A0;
+    --theme-10: #C6D2B7;
+    --theme-05: #D9E1CF;
+    --theme-00: #ECF0E7;
+}

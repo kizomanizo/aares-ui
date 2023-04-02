@@ -1,0 +1,35 @@
+:root {
+    /* Grayscale Color Profile*/
+    --grayscale-90: #000000;
+    --grayscale-80: #1a1a1a;
+    --grayscale-70: #333333;
+    --grayscale-60: #4d4d4d;
+    --grayscale-50: #666666;
+    --grayscale-40: #808080;
+    --grayscale-30: #999999;
+    --grayscale-20: #b3b3b3;
+    --grayscale-10: #cccccc;
+    --grayscale-05: #e6e6e6;
+    --grayscale-00: #ffffff;
+
+    /* Text Highlighter BG */
+    --green-03: #004800;
+    --green-02: #147114;
+    --green-01: #7ad17a;
+    --reddy-03: #6f0000;
+    --reddy-02: #c73333;
+    --reddy-01: #faa5a5;
+
+    /* Theme Colors */
+    --delftblue: #222B4D;
+    --dodgerblue: #058CE8;
+    --indigo: #22455D;
+    --lapislazuli: #005D8D;
+    --mossgreen: #39501D;
+    --orange: #FF934F;
+    --persianred: #B01C28;
+    --purple: #7252B0;
+    --tomato: #E85539;
+    --trueblue: #3557AF;
+    --umber: #5C4B3D;
+}

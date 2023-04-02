@@ -1,0 +1,23 @@
+body.persianred-theme {
+    /* Persian Red Theme Color */
+    --theme-95: #190000;
+    --theme-90: #2F0000;
+    --theme-85: #440002;
+    --theme-80: #570004;
+    --theme-75: #690008;
+    --theme-70: #79020C;
+    --theme-65: #890612;
+    --theme-60: #970C18;
+    --theme-55: #A41320;
+    --theme-50: #B01C28;
+    --theme-45: #BB2532;
+    --theme-40: #C93441;
+    --theme-35: #D54551;
+    --theme-30: #DF5763;
+    --theme-25: #E86A75;
+    --theme-20: #F08089;
+    --theme-15: #F6999E;
+    --theme-10: #FAB3B5;
+    --theme-05: #FDCCCC;
+    --theme-00: #FFE6E6;
+}

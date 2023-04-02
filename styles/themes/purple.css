@@ -1,0 +1,23 @@
+body.purple-theme {
+    /* Purple Color Theme*/
+    --theme-95: #0A0416;
+    --theme-90: #14092B;
+    --theme-85: #1F0F3F;
+    --theme-80: #2A1652;
+    --theme-75: #351D64;
+    --theme-70: #412675;
+    --theme-65: #4D3085;
+    --theme-60: #593A94;
+    --theme-55: #6546A3;
+    --theme-50: #7252B0;
+    --theme-45: #7E5EBB;
+    --theme-40: #896AC5;
+    --theme-35: #9577CF;
+    --theme-30: #A186D7;
+    --theme-25: #AE94DF;
+    --theme-20: #BAA4E6;
+    --theme-15: #C7B4ED;
+    --theme-10: #D5C5F2;
+    --theme-05: #E2D7F7;
+    --theme-00: #F0EAFB;
+}

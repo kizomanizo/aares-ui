@@ -1,0 +1,23 @@
+body.asparagus-theme {
+    /* Asparagus Color Theme */
+    --theme-95: #0B1106;
+    --theme-90: #15200C;
+    --theme-85: #1F2F12;
+    --theme-80: #293D18;
+    --theme-75: #334B20;
+    --theme-70: #3D5827;
+    --theme-65: #47652F;
+    --theme-60: #517138;
+    --theme-55: #5B7C41;
+    --theme-50: #66874B;
+    --theme-45: #709255;
+    --theme-40: #7EA063;
+    --theme-35: #8CAD72;
+    --theme-30: #9AB982;
+    --theme-25: #A8C592;
+    --theme-20: #B7D0A2;
+    --theme-15: #C5DBB4;
+    --theme-10: #D3E5C6;
+    --theme-05: #E2EED8;
+    --theme-00: #F0F7EB;
+}

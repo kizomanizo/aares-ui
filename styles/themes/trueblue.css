@@ -1,0 +1,23 @@
+body.trueblue-theme {
+    /* True Blue Color Theme */
+    --theme-95: #010718;
+    --theme-90: #030E2D;
+    --theme-85: #061641;
+    --theme-80: #091E54;
+    --theme-75: #0E2665;
+    --theme-70: #142F76;
+    --theme-65: #1B3886;
+    --theme-60: #234295;
+    --theme-55: #2B4CA2;
+    --theme-50: #3557AF;
+    --theme-45: #4062BB;
+    --theme-40: #4E6FC7;
+    --theme-35: #5C7DD2;
+    --theme-30: #6C8BDC;
+    --theme-25: #7E9AE5;
+    --theme-20: #90AAEC;
+    --theme-15: #A4BAF3;
+    --theme-10: #B9CAF8;
+    --theme-05: #CFDBFB;
+    --theme-00: #E6EDFE;
+}

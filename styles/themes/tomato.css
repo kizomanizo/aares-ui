@@ -1,0 +1,23 @@
+body.tomato-theme {
+    /* Tomato Color Theme */
+    --theme-95: #1A0400;
+    --theme-90: #310900;
+    --theme-85: #470F01;
+    --theme-80: #5E1605;
+    --theme-75: #751E0A;
+    --theme-70: #8C2710;
+    --theme-65: #A33118;
+    --theme-60: #BA3C22;
+    --theme-55: #D1482D;
+    --theme-50: #E85539;
+    --theme-45: #FF6347;
+    --theme-40: #FF6D51;
+    --theme-35: #FF785D;
+    --theme-30: #FF846B;
+    --theme-25: #FF927B;
+    --theme-20: #FFA18C;
+    --theme-15: #FFB19F;
+    --theme-10: #FFC3B5;
+    --theme-05: #FFD6CC;
+    --theme-00: #FFEAE6;
+}

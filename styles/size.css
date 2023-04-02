@@ -1,0 +1,57 @@
+    /* Reusable object sizes */
+    /* Width */
+    .width_tenth {
+        width: 10%;
+    }
+    .width_third {
+        width: 33%;
+    }
+    .width_half {
+        width: 50%;
+    }
+    .width_full {
+        width: 100%;
+    }
+
+    /* Height */
+    .height_tenth {
+        height: 10%;
+    }
+    .height_third {
+        height: 33%;
+    }
+    .height_half {
+        height: 50%;
+    }
+    .height_full {
+        height: 100%;
+    }
+
+    /* Table Cells */
+    .one {
+        height: 10%;
+    }
+    .two {
+        height: 30%;
+    }
+    .three {
+        height: 30%;
+    }
+    .four {
+        height: 40%;
+    }
+    .five {
+        height: 50%;
+    }
+    .sixty {
+        height: 60%;
+    }
+    .small_cell {
+        width: 150px;
+    }
+    .medium_cell {
+        width: 250px;
+    }
+    .wide_cell {
+        width: 350px;
+    }

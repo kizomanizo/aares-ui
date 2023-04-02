@@ -1,0 +1,23 @@
+body.indigo-theme {
+    /* Indigo Color Theme */
+    --theme-95: #01080D;
+    --theme-90: #030F17;
+    --theme-85: #051622;
+    --theme-80: #081D2C;
+    --theme-75: #0B2435;
+    --theme-70: #0F2B3E;
+    --theme-65: #133146;
+    --theme-60: #17384E;
+    --theme-55: #1C3E56;
+    --theme-50: #22455D;
+    --theme-45: #284B63;
+    --theme-40: #3B5E75;
+    --theme-35: #4E7087;
+    --theme-30: #628298;
+    --theme-25: #7794A9;
+    --theme-20: #8CA6B8;
+    --theme-15: #A2B8C8;
+    --theme-10: #B8CAD6;
+    --theme-05: #CFDCE5;
+    --theme-00: #E7EEF2;
+}

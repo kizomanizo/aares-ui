@@ -1,0 +1,23 @@
+body.orange-theme {
+    /* Orange Color Theme */
+    --theme-95: #1A0D00;
+    --theme-90: #331A02;
+    --theme-85: #4D2805;
+    --theme-80: #66360B;
+    --theme-75: #804512;
+    --theme-70: #99531A;
+    --theme-65: #B36325;
+    --theme-60: #CC7231;
+    --theme-55: #E6833F;
+    --theme-50: #FF934F;
+    --theme-45: #FF9B58;
+    --theme-40: #FFA462;
+    --theme-35: #FFAC6D;
+    --theme-30: #FFB57A;
+    --theme-25: #FFBF88;
+    --theme-20: #FFC898;
+    --theme-15: #FFD2A9;
+    --theme-10: #FFDDBC;
+    --theme-05: #FFE7D0;
+    --theme-00: #FFF2E6;
+}

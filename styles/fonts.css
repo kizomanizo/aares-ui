@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/roboto/Roboto-Regular.woff');
+}
+
+@font-face {
+    font-family: 'Roboto Thin';
+    src: url('../fonts/roboto/Roboto-Thin.woff');
+}
+
+@font-face {
+    font-family: 'Roboto Bold';
+    src: url('../fonts/roboto/Roboto-Bold.woff');
+}
+
+@font-face {
+    font-family: 'Roboto Italic';
+    src: url('../fonts/roboto/Roboto-Italic.woff');
+}
+
+@font-face {
+    font-family: 'Helvetica Condensed';
+    src: url('../fonts/helvetica/Helvetica-Condensed-Black.woff2');
+}

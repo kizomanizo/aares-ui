@@ -1,0 +1,23 @@
+body.umber-theme {
+    /* Umber Color Theme */
+    --theme-95: #0B0805;
+    --theme-90: #160F0B;
+    --theme-85: #1F1710;
+    --theme-80: #291E15;
+    --theme-75: #32251B;
+    --theme-70: #3B2D21;
+    --theme-65: #443428;
+    --theme-60: #4C3C2F;
+    --theme-55: #544335;
+    --theme-50: #5C4B3D;
+    --theme-45: #645244;
+    --theme-40: #756355;
+    --theme-35: #867467;
+    --theme-30: #968679;
+    --theme-25: #A6978B;
+    --theme-20: #B6A89E;
+    --theme-15: #C5B9B0;
+    --theme-10: #D4CBC4;
+    --theme-05: #E3DCD7;
+    --theme-00: #F1EEEB;
+}

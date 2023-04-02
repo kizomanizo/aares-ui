@@ -1,0 +1,23 @@
+body.lapislazuli-theme {
+    /* Lazuli Color Theme */
+    --theme-95: #000C16;
+    --theme-90: #001728;
+    --theme-85: #002138;
+    --theme-80: #002B48;
+    --theme-75: #003557;
+    --theme-70: #003D64;
+    --theme-65: #004670;
+    --theme-60: #004E7B;
+    --theme-55: #005684;
+    --theme-50: #005D8D;
+    --theme-45: #006494;
+    --theme-40: #1A76A5;
+    --theme-35: #3387B5;
+    --theme-30: #4D98C4;
+    --theme-25: #66A8D1;
+    --theme-20: #80B8DC;
+    --theme-15: #99C7E6;
+    --theme-10: #B3D6EE;
+    --theme-05: #CCE4F5;
+    --theme-00: #E6F2FB;
+}
